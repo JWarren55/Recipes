@@ -1,8 +1,10 @@
 # Recipes
 
+https://jwarren55.github.io/Recipes/
+
 ## Description
 
-Recipes is a coding project for Web Development at OKCU. For this project I will share some of my girlfriends favorite recipes. I will also demonstrate my skills of te basics of HTML and making an accessability. 
+Recipes is a coding project for Web Development at OKCU. For this project I will share some of my girlfriends favorite recipes. I will also demonstrate my skills of te basics of HTML and making an accessible website.
 
 ## Roadmap
 
@@ -18,4 +20,11 @@ Recipes is a coding project for Web Development at OKCU. For this project I will
 
 ## Demo
 
-https://jwarren55.github.io/Recipes/
+![Home page of the website](./media/Demo/homePage1.png)
+This image shows the home page of the website. Currently, it is basic with room to expand.
+
+![top of the page of Coffee Cake Cookie recipe](./media/Demo/CoffeeCakeCookie1.png)
+This image shows the top of one of our recipe pages. all pages feature an image of the end product. all pages will also have description of the recipe.
+
+![bottom of the page of Coffee Cake Cookie recipe](./media/Demo/CoffeeCakeCookie2.png)
+The bottom off every recipe page has ingredients, and the recipe. All pages also have a home button to return to the home page.
