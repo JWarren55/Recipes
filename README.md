@@ -20,11 +20,11 @@ Recipes is a coding project for Web Development at OKCU. For this project I will
 
 ## Demo
 
-![Home page of the website](./media/Demo/homePage1.png)
+![Home page of the website](./media/demo/homePage1.png)
 This image shows the home page of the website. Currently, it is basic with room to expand.
 
-![top of the page of Coffee Cake Cookie recipe](./media/Demo/coffeeCakeCookie1.png)
+![top of the page of Coffee Cake Cookie recipe](./media/demo/coffeeCakeCookie1.png)
 This image shows the top of one of our recipe pages. all pages feature an image of the end product. all pages will also have description of the recipe.
 
-![bottom of the page of Coffee Cake Cookie recipe](./media/Demo/coffeeCakeCookie2.png)
+![bottom of the page of Coffee Cake Cookie recipe](./media/demo/coffeeCakeCookie2.png)
 The bottom off every recipe page has ingredients, and the recipe. All pages also have a home button to return to the home page.
