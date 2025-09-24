@@ -8,8 +8,39 @@
         * {
             background-color: tan;
         }
+        .streusel {
+            background-color: rgb(186, 136, 70);
+        }
+        .streusel ul, .streusel li, .streusel h3 {
+            background-color: rgb(186, 136, 70);
+        }
+
         .icing {
+            justify-items: center;
+        }
+/* 
+        I think this is mostly wonky because the h3 wants to be its own thing even in the div */
+        .icing ul, .icing li, .icing h3 {
             background-color: whitesmoke;
+            padding: 10px;
+            border-radius: 10px;
+            outline: auto;
+        }
+        /* example of a card build if that is of interste */
+        .icing ul {
+            width: fit-content;
+            padding: 10px;
+            border-radius: 10px;
+            outline: auto;
+            list-style-type: none;
+            background-color: thistle;
+        }
+        .icing li {
+            background-color: white;
+            margin: 5px;
+            padding: 15px;
+            border-radius: 10px;
+            outline: auto;
         }
     </style>
     <title>Document</title>
@@ -39,14 +70,16 @@
         <li>2 1/2 cups of flour</li>
     </ul>
 
+    <div class="streusel">
     <h3>Streusel</h3>
-    <ul>
-        <li>1/4 cup of butter</li>
-        <li>1/4 cup of brown sugar</li>
-        <li>1/3 - 1/2 cup of flower</li>
-        <li>1/2 tsp of cinnamon</li>
-        <li>pinch of salt</li>
-    </ul>
+        <ul>
+            <li>1/4 cup of butter</li>
+            <li>1/4 cup of brown sugar</li>
+            <li>1/3 - 1/2 cup of flower</li>
+            <li>1/2 tsp of cinnamon</li>
+            <li>pinch of salt</li>
+        </ul>
+    </div>
 
     <div class="icing">
         <h3>Icing</h3>
