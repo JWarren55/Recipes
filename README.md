@@ -12,14 +12,19 @@ Recipes is a coding project for Web Development at OKCU. For this project I will
 2. Make Pumpkin Cookie recipe
 3. Make Coffee Cake Cookie recipe
 4. Make a steak recipe
+5. Make CSS to make pretty
 
 ## Learned
 
-1. Using images on pages.
-2. Proper linking pages to navigate the websites. 
+- Using images on pages.
+- Proper linking pages to navigate the websites. 
+- CSS principles.
 
 ## Demo
 
+New Demo coming soon...
+
+## Archive
 ![Home page of the website](./media/demo/homePage1.png)
 This image shows the home page of the website. Currently, it is basic with room to expand.
 
